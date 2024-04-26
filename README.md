@@ -65,11 +65,14 @@ Note: model types include [pointnet_vlad / pptnet / pptnet_l2_norm / minkloc3d_v
 #### Citation
 If you find the code or trained models useful, please consider citing:
 ```
-@inproceedings{zou2023patchaugnet,
+@article{zou2023patchaugnet,
   title={PatchAugNet: Patch feature augmentation-based heterogeneous point cloud place recognition in large-scale street scenes},
-  author={Xianghong Zou and Jianping Li and Yuan Wang and Fuxun Liang and Weitong Wu and Haiping Wang and Bisheng Yang and Zhen Dong},
-  journal={ISPRS J},
-  year={2023}
+  author={Zou, Xianghong and Li, Jianping and Wang, Yuan and Liang, Fuxun and Wu, Weitong and Wang, Haiping and Yang, Bisheng and Dong, Zhen},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={206},
+  pages={273--292},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
